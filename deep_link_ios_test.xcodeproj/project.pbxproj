@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		CE2DFF1B2D93258500874509 /* deep_link_ios_test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = deep_link_ios_test.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE40576C2D935D0000552AC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -34,6 +35,7 @@
 			children = (
 				CE2DFF1D2D93258500874509 /* deep_link_ios_test */,
 				CE2DFF1C2D93258500874509 /* Products */,
+				CE40576C2D935D0000552AC3 /* Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -255,6 +257,7 @@
 				DEVELOPMENT_TEAM = JS6CH83B3V;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -284,6 +287,7 @@
 				DEVELOPMENT_TEAM = JS6CH83B3V;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
