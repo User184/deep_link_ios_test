@@ -18,7 +18,7 @@ struct ContentView: View {
     @State private var isFlutterAppInstalled: Bool = false
     
     // Доступные экраны для выбора
-    let availableScreens = ["activities", "profile", "workout"]
+    let availableScreens = ["calendar", "profile"]
     
     // URL для App Store - используем правильный ID
     private let appID = "6657987267"
